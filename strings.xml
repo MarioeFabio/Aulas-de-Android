@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="campo_edita">Insira sua mensagem</string>
+    <string name="botao_enviar">Enviar</string>
+</resources>
